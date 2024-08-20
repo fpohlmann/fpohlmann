@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fpohlmann
 - 👀 I’m interested in NLP.
-- 🌱 I’m currently learning about AI devops tools
+- 🌱 I’m strongly interested in semantics, be it from a computational, logical or philosophical point of view.
 - 💞️ I am interested in parsing, statistical and deep learning algorithms as applied to NLP, and I'd like to dabble in GIS
 - 📫 You can reach me on fpohlmann@gmail.com
 
